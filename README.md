@@ -13,11 +13,19 @@ This template helps you quickly start a **Monark project** with the **standard m
 ## Setup Steps
 
 1. **Replace placeholders** in your project files:  
-   - `{{PROJECT_NAME}}` → Your project name  
-   - `{{PROJECT_DESCRIPTION}}` → Short description of the project  
-   - `{{PROJECT_REPOSITORY_NAME}}` → GitHub repository name  
-   - `{{START_YEAR}}` → Project start year  
-   - `{{CURRENT_YEAR}}` → Current year  
+   - `LedgerLift` → Your project name  
+   - `Backend system for blockchain accounting data extraction and processing` → Short description of the project  
+   - `accounting-blockchain-data-extraction` → GitHub repository name  
+   - `2026` → Project start year  
+   - `2026` → Current year  
+
+2. **Sync repository labels with the template repository**  
+   1. Make sure your **workflow permissions** are set to **Read & Write**:  
+      https://github.com/marketplace/actions/github-label-sync-action#403-resource-not-accessible-by-integration  
+   2. Go to the **Actions** tab in your repository and run the **`Apply Template Labels`** workflow.  
+   3. Confirm that the repository now contains the **standard Monark labels** (for example, check that `P0 🟣` exists).
+
+---
 
 2. **Sync repository labels with the template repository**  
    1. Make sure your **workflow permissions** are set to **Read & Write**:  
