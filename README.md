@@ -48,10 +48,10 @@ ledgerlift/
 
 ### 🔧 Binôme A : Backend & Data
 - **Demba Pathe Ba** - Backend & DevOps (Express, PostgreSQL, Docker, Auth)
-- **Prisciilla Vassy** - Data Blockchain (Pinax API, CoinGecko, Normalisation)
+- **Priscilia Vassy** - Data Blockchain (Pinax API, CoinGecko, Normalisation)
 
 ### 🎨 Binôme B : Frontend & UI
-- **Hassanat Diallo** - Frontend Lead (Next.js, Tailwind, shadcn-ui, Composants)
+- **Hassanatou Diallo** - Frontend Lead (Next.js, Tailwind, shadcn-ui, Composants)
 - **Hazem Ben Chouikha** - Web3 Integrator (Wallets, API Integration, Exports)
 
 **Superviseur :** Loucas Pelletier  
